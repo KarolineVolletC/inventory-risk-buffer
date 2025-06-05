@@ -1,4 +1,4 @@
-# Inventory Risk Buffer Calculation ( Average consumption + safety stock)
+# Inventory Risk Buffer Calculation ( average consumption + safety stock)
 
 This project is a Python script that calculates the Ideal Safety Stock based on consumption data, current stock, and transfer price, using a statistical approach to estimate demand variability and lead time.
 
